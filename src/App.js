@@ -1,9 +1,10 @@
 // import "./app.css"
+import CharacterCard from './components/CharacterCard'
 
 function App() {
   return (
     <div className="App">
-      <h1>hello</h1>
+      <CharacterCard />
     </div>
   );
 }
