@@ -1,4 +1,4 @@
-// import "./app.css"
+import "./App.css"
 import CharacterCard from './components/CharacterCard'
 
 function App() {
