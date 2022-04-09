@@ -1,0 +1,32 @@
+{
+  "halo": [
+    {
+      "id": 1,
+      "name": "Master Chief",
+      "bio": "Master Chief Petty Officer John-117, commonly referred to as simply the Master Chief, is the main protagonist and main playable character in many of the Halo games.",
+      "image": "https://cdn.mos.cms.futurecdn.net/j6reMf3QEuGWFE7FkVmoyT.jpg",
+      "affiliation": "UNSC"
+    },
+    {
+      "id": 2,
+      "name": "Atriox",
+      "bio": "Atriox, voiced by John Dimaggio and Ike Amadi, is the Brute who founded and leads the mercenary organization known as the Banished.",
+      "image": "https://assets.gamepur.com/wp-content/uploads/2021/12/11102552/halo-infinite-atriox-1.jpg",
+      "affiliation": "Banished"
+    },
+    {
+      "name": "Cortana",
+      "bio": "Cortana, voiced in the games by Jen Taylor, is the artificial intelligence (AI) who assists the Master Chief in the video games. She is one of many \"smart\" AIs, and is based on the brain of Dr. Catherine Halsey; the nature of her construction means she is subject to a finite lifespan.",
+      "affiliation": "UNSC",
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/11/halo-tv-series-cortana-jen-taylor-natascha-mcelhone.jpg?resize=768%2C432",
+      "id": 3
+    },
+    {
+      "name": "Avery Johnson",
+      "bio": "Avery Junior Johnson is a Marine sergeant major who leads human forces throughout the Halo series. The character is voiced by David Scully. Johnson and a few other Marines survive the destruction of Installation 04 and are rescued by Cortana and the Master Chief during the novel Halo: First Strike. Johnson plays a larger role in Halo 2, joining forces with the Arbiter to stop Tartarus from activating Installation 05. In Halo 3, the Covenant attempt to use him to activate the Halo Array, but are foiled; when the Master Chief decides to activate the local Halo to stop the Flood infestation, the Forerunner construct 343 Guilty Spark kills him to prevent it.",
+      "affiliation": "",
+      "image": "https://www.escapistmagazine.com/wp-content/uploads/2021/09/halojohnson.jpg",
+      "id": 4
+    }
+  ]
+}

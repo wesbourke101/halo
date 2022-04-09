@@ -1,9 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+*{
+    font-family: 'Fira Sans', sans-serif;
+    color: white;
+}
+
+
 body {
-    background-image: url("https://wallpaperaccess.com/full/50044.jpg");
+    background-image: url("https://free4kwallpapers.com/uploads/originals/2020/05/06/-halo-infinite-wallpaper.jpg");
     
 }
 
 .card-image{
     height: 300px;
     width: 200px;
+    
+}
+
+.card {
+    border-radius: 5px;
+}
+
+option {
+    color: black;
+}
+
+input {
+    color: black;
+}
+
+.card-container {
+    margin-top: 200px;
+}
+
+.Header {
+    padding: 10px;
 }
