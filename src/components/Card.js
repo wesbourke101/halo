@@ -11,19 +11,25 @@ function Card ({id, name, bio, image, affiliation}) {
 
 
     return (
-        <div className="character-card">
+        <div className="character-card" >
+                
                { card ? 
                <>
+                
                <h3>{id}. {name}</h3>
-               <img src={image} style={{height: "300px", width: "500px"}} alt="halo-character"onClick={handleFlip}/>
+               <img src={image} style={{height: "500px", width: "520px"}} alt="halo-character"onClick={handleFlip} className="image"/>
+               
                 </>
                :
 
                <>
-               <p>{affiliation}</p>
+              
+               <p>___________________________________________________________</p>
+               <p>Faction: {affiliation}</p>
                <p>{bio}</p>
                <button onClick={handleFlip} style={{color: "black"}}>return</button> 
                <p>___________________________________________________________</p>
+         
                </>
                }
         </div>

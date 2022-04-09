@@ -14,6 +14,7 @@ function Header({formData, setFormData, saveCharacter}){
                 <input type="text" name="bio" placeholder="input character bio.." onChange={handleChange}/>
                 <input type="text" name="image" placeholder="input image url..." onChange={handleChange}/>
                 <select name="affiliation" style={{color: "black"}} onChange={handleChange}>
+                    <option value="Choose a faction: ">Select a faction</option>
                     <option value="UNSC">UNSC</option>
                     <option value="Covenant">Covenant</option>
                     <option value="Banished">Banished</option>

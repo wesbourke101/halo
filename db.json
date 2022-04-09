@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Master Chief",
       "bio": "Master Chief Petty Officer John-117, commonly referred to as simply the Master Chief, is the main protagonist and main playable character in many of the Halo games. The character is voiced by Steve Downes, a Chicago disc jockey. He is one of the Spartans, an elite group of augmented soldiers raised from childhood to be super soldiers. Assisted by the artificial intelligence Cortana, he prevents the catastrophic firing of Installation 04 in Halo: Combat Evolved. Developing the character of Master Chief was part of Bungie's efforts to make players invested in playing the game. The character has since become a gaming icon, the mascot of the Xbox, and rated as one of the greatest characters in video games.",
-      "image": "https://cdn.mos.cms.futurecdn.net/j6reMf3QEuGWFE7FkVmoyT.jpg",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6212507c5495f0ea94a869a8/HALO/960x0.jpg?fit=bounds&format=jpg&width=960",
       "affiliation": "UNSC"
     },
     {
@@ -24,9 +24,37 @@
     {
       "name": "Avery Johnson",
       "bio": "Avery Junior Johnson is a Marine sergeant major who leads human forces throughout the Halo series. The character is voiced by David Scully. Johnson and a few other Marines survive the destruction of Installation 04 and are rescued by Cortana and the Master Chief during the novel Halo: First Strike. Johnson plays a larger role in Halo 2, joining forces with the Arbiter to stop Tartarus from activating Installation 05. In Halo 3, the Covenant attempt to use him to activate the Halo Array, but are foiled; when the Master Chief decides to activate the local Halo to stop the Flood infestation, the Forerunner construct 343 Guilty Spark kills him to prevent it.",
-      "affiliation": "",
+      "affiliation": "UNSC",
       "image": "https://www.escapistmagazine.com/wp-content/uploads/2021/09/halojohnson.jpg",
       "id": 4
+    },
+    {
+      "name": "Jacob Keyes",
+      "bio": "Captain Jacob Keyes (voiced by Pete Stacker) is a captain in the UNSC who appears in Halo: Reach, Halo: Combat Evolved, Halo: The Flood, Halo: The Cole Protocol, and Halo: The Fall of Reach. His first chronological appearance is in The Fall of Reach, where, as a young Lieutenant, he accompanies Dr. Catherine Halsey on her mission to screen possible SPARTAN-II Project subjects. During battle with the Covenant over the planet Sigma Octanus IV, Keyes became known for his complicated and unorthodox maneuver which allowed him to win against impossible odds. Keyes leads his ship the Pillar of Autumn to Halo in Combat Evolved. There, Keyes leads a guerrilla insurgency against the Covenant. Captured and assimilated by the parasitic Flood, he is killed by the Master Chief.",
+      "affiliation": "UNSC",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/0/2674/1750314-1.png",
+      "id": 5
+    },
+    {
+      "name": "Miranda Keyes",
+      "bio": "Commander Miranda Keyes is the daughter of Jacob Keyes and Catherine Halsey. Miranda appears in Halo 2, Halo 3 and in the final chapter of Halo: The Cole Protocol. In Halo 2 she supports the Master Chief in his battles, and assists Johnson and the Arbiter in stopping the activation of the Halo Array. In Halo 3, Keyes attempts a rescue of Sergeant Johnson when he is captured by the Covenant to activate the Ark; she is killed in the attempt. Keyes was voiced by Julie Benz in Halo 2'. Benz said that she loved voiceover work and that it was pure chance she had become the voice of Keyes in the first place.",
+      "affiliation": "UNSC",
+      "image": "https://preview.redd.it/2oibuyze5e881.jpg?width=640&crop=smart&auto=webp&s=040f713d6bbb0e880979b33d4ce772294e9eebc7",
+      "id": 6
+    },
+    {
+      "name": "Tartarus",
+      "bio": "Tartarus (voiced by Kevin Michael Richardson) is the Chieftain of the Brutes, easily recognized by his white hair, distinctive mohawk, and massive gravity hammer known as the \"Fist of Rukt\". Rough, arrogant, and disdainful of the Elites, Tartarus is completely dedicated to the Prophets' salvific \"Great Journey\". Halo: Contact Harvest reveals that Tartarus became Chieftain after killing the former Chieftain, his uncle Maccabeus, and seizing the Chieftain's weapon. In Contact Harvest, Tartarus acts as one of the main antagonists, working to destroy the human colony of Harvest and coming into conflict with Sergeant Johnson. During the final battle of the novel, Johnson's life is inadvertently saved when one of Tartarus' own soldiers turns against him, damaging Tartarus' armor and forcing him to retreat. Tartarus makes his first appearance in the novel Halo: First Strike, as one of the first Brutes allowed into the chamber of the High Prophet of Truth.",
+      "affiliation": "Covenant",
+      "image": "https://halo.wiki.gallery/images/2/29/H2A-Tartaruscloseup.png",
+      "id": 7
+    },
+    {
+      "name": "Gravemind",
+      "bio": "Gravemind (voiced by Dee Bradley Baker) is one of the primary antagonists in the Halo series. The Gravemind is a large, sentient creature of Flood origin, created by the parasite to serve as its central intelligence once a critical biomass has been achieved. It was introduced during the events of Halo 2, where the creature saves both the Master Chief and Arbiter from their deaths, bringing the two face to face in the bowels of Delta Halo. Gravemind reveals to the Arbiter that the \"sacred rings\" are actually weapons of last resort; a fact the Master Chief confirms. In order to stop Halo from being fired, Gravemind teleports the Master Chief and Arbiter to separate locations, but also uses them as a distraction; Gravemind infests the human ship In Amber Clad, and uses it to invade the Covenant city of High Charity.",
+      "affiliation": "Flood",
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/12/Halo-Gravemind-Concept-Art.jpeg",
+      "id": 8
     }
   ]
 }

@@ -1,7 +1,6 @@
 import "./App.css"
 import Container from "@mui/material/Container"
-import ImageList from '@mui/material/ImageList';
-import ImageListItem from '@mui/material/ImageListItem';
+import Grid from '@mui/material/Grid';
 import {useState, useEffect} from 'react'
 import CardContainer from "./components/CardContainer"
 import Header from "./components/Header"
@@ -50,16 +49,20 @@ function App() {
 
 
   return (
+    
     <div className="App">
-      <Container>
         <AppBar>
           <Header formData={formData} setFormData={setFormData} saveCharacter={saveCharacter}/>
         </AppBar>
-        <ImageList>
+     
+        <Container>
           <CardContainer characters={characters}/>
-        </ImageList>
-      </Container>
+        </Container>
+             
     </div>
   );
 }
+
+        
+  
 export default App;
