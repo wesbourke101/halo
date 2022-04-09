@@ -3,20 +3,20 @@
     {
       "id": 1,
       "name": "Master Chief",
-      "bio": "Master Chief Petty Officer John-117, commonly referred to as simply the Master Chief, is the main protagonist and main playable character in many of the Halo games.",
+      "bio": "Master Chief Petty Officer John-117, commonly referred to as simply the Master Chief, is the main protagonist and main playable character in many of the Halo games. The character is voiced by Steve Downes, a Chicago disc jockey. He is one of the Spartans, an elite group of augmented soldiers raised from childhood to be super soldiers. Assisted by the artificial intelligence Cortana, he prevents the catastrophic firing of Installation 04 in Halo: Combat Evolved. Developing the character of Master Chief was part of Bungie's efforts to make players invested in playing the game. The character has since become a gaming icon, the mascot of the Xbox, and rated as one of the greatest characters in video games.",
       "image": "https://cdn.mos.cms.futurecdn.net/j6reMf3QEuGWFE7FkVmoyT.jpg",
       "affiliation": "UNSC"
     },
     {
       "id": 2,
       "name": "Atriox",
-      "bio": "Atriox, voiced by John Dimaggio and Ike Amadi, is the Brute who founded and leads the mercenary organization known as the Banished.",
+      "bio": "Atriox, voiced by John Dimaggio and Ike Amadi, is the Brute who founded and leads the mercenary organization known as the Banished. Having fought for the Covenant during the Human-Covenant War, Atriox grew disgruntled with the alien empire as his Brute brothers were carelessly used as canon fodder by their Elite masters, a species who had a feuding rivalry with them due to the Brute's strength and aggression challenging their superior status.",
       "image": "https://assets.gamepur.com/wp-content/uploads/2021/12/11102552/halo-infinite-atriox-1.jpg",
       "affiliation": "Banished"
     },
     {
       "name": "Cortana",
-      "bio": "Cortana, voiced in the games by Jen Taylor, is the artificial intelligence (AI) who assists the Master Chief in the video games. She is one of many \"smart\" AIs, and is based on the brain of Dr. Catherine Halsey; the nature of her construction means she is subject to a finite lifespan.",
+      "bio": "Cortana, voiced in the games by Jen Taylor, is the artificial intelligence (AI) who assists the Master Chief in the video games. She is one of many \"smart\" AIs, and is based on the brain of Dr. Catherine Halsey; the nature of her construction means she is subject to a finite lifespan.  In Halo 4, Cortana begins to succumb to her age, and sacrifices herself to save Chief and Earth from the Forerunner Didact, but Halo 5: Guardians reveals that she had survived the ordeal. Having found access to the Domain, a Forerunner repository of knowledge, Cortana believes that AIs should serve as the galaxy's caretakers, putting her in conflict with her creators.",
       "affiliation": "UNSC",
       "image": "https://www.denofgeek.com/wp-content/uploads/2020/11/halo-tv-series-cortana-jen-taylor-natascha-mcelhone.jpg?resize=768%2C432",
       "id": 3

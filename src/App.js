@@ -1,6 +1,7 @@
 import "./App.css"
 import Container from "@mui/material/Container"
-import { ImageList } from "@mui/material"
+import ImageList from '@mui/material/ImageList';
+import ImageListItem from '@mui/material/ImageListItem';
 import {useState, useEffect} from 'react'
 import CardContainer from "./components/CardContainer"
 import Header from "./components/Header"

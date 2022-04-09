@@ -8,6 +8,7 @@ function CardContainer({characters}){
 
     return (
         <div className="card-container">
+            <h2>Click on each character card to find more information about them:</h2>
             {mappedCards}
         </div>
     )
