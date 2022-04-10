@@ -1,7 +1,10 @@
 import CharacterCard from './components/CharacterCard';
 import Home from './components/Home';
 import Something from './components/Something';
-import React, { render } from 'react';
+
+import Box from '@mui/material/Box';
+
+import React, { useState, useEffect } from 'react';
 import {
   BrowserRouter,
   Routes,
@@ -9,8 +12,25 @@ import {
   Link
 } from "react-router-dom";
 
+
+
+// to install json run this npm install :npm install -g json-server
+// to run server: json-server --watch db.json --port 3001
+
 function App() {
+
+  const [haloData, setHaloData] = useState([])
+
+  useEffect(() => {
+    fetch("http://localhost:3001/halo")
+    .then( res => res.json())
+    .then( data => setHaloData(data))
+    .catch( error => console.log(error.message));
+  },[])
+
+
   return (
+    <Box>
       <BrowserRouter> 
         <nav
           style={{
@@ -23,12 +43,11 @@ function App() {
         </nav>
         <Routes>
           <Route path="" element={<Home />} />
-          <Route path="HaloInformation" element={<CharacterCard />} />
+          <Route path="HaloInformation" element={<CharacterCard haloData={haloData}/>} />
           <Route path="SomethingElse"element={<Something />}/>
         </Routes>
-      
       </BrowserRouter>
-
+    </Box>      
   );
 }
 export default App;
