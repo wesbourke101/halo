@@ -2,7 +2,7 @@ import React from "react"
 
 function CharacterCard() {
     return (
-        <h1>Hello World</h1>
+        <h1>CharacterCard</h1>
     )
 
 }
