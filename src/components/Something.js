@@ -5,5 +5,4 @@ function Something() {
     <div>Something</div>
   )
 }
-
 export default Something

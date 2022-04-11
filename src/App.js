@@ -1,9 +1,7 @@
 import CharacterCard from './components/CharacterCard';
 import Home from './components/Home';
 import Something from './components/Something';
-
 import Box from '@mui/material/Box';
-
 import React, { useState, useEffect } from 'react';
 import {
   BrowserRouter,
